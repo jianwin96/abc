@@ -1,7 +1,7 @@
 
 public class JavaApplication10 {
 static int a = 5;
-static int b = 10;
+static int b = 9;
 static int c = 4;
     /**
      * @param args the command line arguments
