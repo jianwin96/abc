@@ -1,6 +1,6 @@
 
 public class JavaApplication10 {
-static int a = 5;
+static int a = 6;
 static int b = 9;
 static int c = 4;
     /**
